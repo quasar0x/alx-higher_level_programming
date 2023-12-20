@@ -24,3 +24,4 @@ class Square:
             ares.
         """
         return self.__size**2
+        
